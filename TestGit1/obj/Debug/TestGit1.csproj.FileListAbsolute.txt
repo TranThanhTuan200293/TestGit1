@@ -1,0 +1,7 @@
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\bin\Debug\TestGit1.exe.config
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\bin\Debug\TestGit1.exe
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\bin\Debug\TestGit1.pdb
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\obj\Debug\TestGit1.csproj.AssemblyReference.cache
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\obj\Debug\TestGit1.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\obj\Debug\TestGit1.exe
+C:\Users\TUAN TRAN\Desktop\TestGit\TestGit1\TestGit1\obj\Debug\TestGit1.pdb

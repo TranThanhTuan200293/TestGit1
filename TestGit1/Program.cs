@@ -10,6 +10,8 @@ namespace TestGit1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello 1");
+            Console.ReadKey();
         }
     }
 }
