@@ -12,6 +12,8 @@ namespace TestGit1
         {
             Console.WriteLine("hello 1");
             Console.WriteLine("hello 1");
+            Console.WriteLine("hello 1");
+            Console.WriteLine("hello 1");
             Console.ReadKey();
         }
     }
